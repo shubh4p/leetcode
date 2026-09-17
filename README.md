@@ -40,4 +40,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubh4p/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shubh4p/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
